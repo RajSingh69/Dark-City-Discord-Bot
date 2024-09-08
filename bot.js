@@ -51,4 +51,4 @@ client.on("messageCreate", async msg => {
   }
 });
 
-client.login('MTA0MDMyODY0OTIzODM5NzEwMA.Gw9d80.8eaqqqdDA2lwWqS29QoUZm1t-rBKSdcjMwqqJQ');
+client.login('LOGIN CODE HERE');
